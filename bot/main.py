@@ -19,4 +19,3 @@ async def ping(ctx):
 server.server()
 bot.run(TOKEN)
  
- 
